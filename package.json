@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/puregarlic/convention-your-commits#readme",
   "dependencies": {
+    "prop-types": "^15.6.2",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "react-pose": "^3.3.6",
+    "styled-components": "^4.0.0-beta.11.3",
+    "styled-system": "^3.1.6"
   },
   "devDependencies": {
     "parcel": "^1.10.2"
