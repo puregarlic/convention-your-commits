@@ -1,0 +1,19 @@
+{
+  "name": "convention-your-commits",
+  "version": "0.0.0",
+  "description": "An app for helping you pick a Conventional Commit type",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puregarlic/convention-your-commits.git"
+  },
+  "author": "Graham Barber <grahammbarber@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puregarlic/convention-your-commits/issues"
+  },
+  "homepage": "https://github.com/puregarlic/convention-your-commits#readme"
+}
