@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "An app for helping you pick a Conventional Commit type",
   "scripts": {
+    "start": "parcel src/index.html",
     "test": "jest --coverage"
   },
   "repository": {
